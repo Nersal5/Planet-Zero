@@ -1,0 +1,18 @@
+{
+  "type": "Sorter"
+  "name": "nickel-sorter"
+  "displayName": "Никелевий сортировщик"
+  "description": "сортировщик как ни как"
+  "health": 50
+  "requirements": [
+    { "item": "nickel", "amount": 4 }
+    { "item": "iron", "amount": 1 }
+  ]
+  "category": "distribution"
+  "research": {
+    "parent": "nickel-router"
+    "requirements": [
+      { "item": "nickel", "amount": 100 }
+    ]
+  }
+}

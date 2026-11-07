@@ -1,0 +1,17 @@
+{
+  "type": "Router"
+  "name": "nickel-router"
+  "displayName": "Никелевий маршрутизатор"
+  "description": "router"
+  "health": 50
+  "requirements": [
+    { "item": "nickel", "amount": 4 }
+  ]
+  "category": "distribution"
+  "research": {
+    "parent": "nickel-conveyor"
+    "requirements": [
+      { "item": "nickel", "amount": 50 }
+    ]
+  }
+}

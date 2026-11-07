@@ -1,0 +1,19 @@
+{
+  "type": "Junction"
+  "name": "nickel-conveyor"
+  "displayName": "Никелевий перекресток"
+  "description": "Перекресток"
+  "health": 50
+  "speed": 20
+  "capacity": 6
+  "requirements": [
+    { "item": "nickel", "amount": 3 }
+  ]
+  "category": "distribution"
+  "research": {
+    "parent": "nickel-conveyor"
+    "requirements": [
+      { "item": "nickel", "amount": 25 }
+    ]
+  }
+}

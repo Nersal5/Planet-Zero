@@ -1,0 +1,44 @@
+{
+  "type": "ItemTurret",
+  "name": "incoming",
+  "displayName": "Приближение",
+  "description": "Простая турель для защиты базы.",
+  "size": 1,
+  "health": 200,
+  "range": 120,
+  "reload": 30,
+  "hasPower": false,
+  "requirements": [
+    { "item": "iron", "amount": 25 },
+    { "item": "nickel", "amount": 10 }
+  ],
+  "ammoTypes": {
+    "iron": {
+      "type": "BasicBulletType",
+      "damage": 35,
+      "speed": 6,
+      "lifetime": 20,
+      "width": 7,
+      "height": 9,
+      "buildingDamageMultiplier": 0.01
+    },
+    "diamond": {
+      "type": "BasicBulletType",
+      "damage": 90,
+      "speed": 4.8,
+      "lifetime": 25,
+      "width": 7,
+      "height": 9,
+      "reloadMultiplier": 0.5,
+      "buildingDamageMultiplier": 0.01
+    }
+  },
+  "category": "turret",
+  "research": {
+    "parent": "core-asteroid"
+    "requirements": [
+      { "item": "iron", "amount": 25 }
+      { "item": "nickel", "amount": 25 }
+    ]
+  }
+}

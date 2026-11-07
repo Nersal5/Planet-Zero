@@ -1,0 +1,19 @@
+{
+  "type": "Conveyor"
+  "name": "nickel-conveyor"
+  "displayName": "Никельевий конвейер"
+  "description": "В РАЗРАБОТКЕ"
+  "health": 50
+  "speed": 0.0515
+  "displaySpeed": 8
+  "requirements": [
+    { "item": "nickel", "amount": 1 }
+  ]
+  "category": "distribution"
+  "research": {
+    "parent": "core-asteroid"
+    "requirements": [
+      { "item": "nickel", "amount": 5 }
+    ]
+  }
+}

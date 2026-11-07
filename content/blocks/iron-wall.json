@@ -1,0 +1,18 @@
+{
+  "type": "Wall",
+  "name": "iron-wall",
+  "displayName": "Железная стена",
+  "description": "Стена созданая защищать союзние блоки",
+  "size": 1,
+  "health": 400,
+  "requirements": [
+    { "item": "iron", "amount": 6 }
+  ],
+  "category": "defense"
+  "research": {
+    "parent": "incomming"
+    "requirements": [
+      { "item": "iron", "amount": 50 }
+    ]
+  } 
+}
