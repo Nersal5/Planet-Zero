@@ -1,0 +1,14 @@
+{
+  "type": "item"
+  "name": "nickel"
+  "displayName": "Никель"
+  "description": "Основной предмет, частовато появляется ввиде руди, больше годится для логистики"
+  "cost": 0.8
+  "hardness": 1
+  "color": "9da697"
+  "flammability": 0
+  "explosiveness": 0
+  "radioactivity": 0
+  "charge": 0
+  "research": "iron"
+}

@@ -1,0 +1,13 @@
+{
+  "type": "item"
+  "name": "diamond"
+  "displayName": "Алмаз"
+  "description": "Предмет, Никель очищений от ржавчини и другого, не годится в обороне, сильно годится в добиче"
+  "cost": 5
+  "hardness": 2
+  "color": "e2f3ff"
+  "flammability": 0
+  "explosiveness": 0
+  "radioactivity": 0.01
+  "charge": 0.04
+}
