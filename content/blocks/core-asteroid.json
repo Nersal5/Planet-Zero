@@ -1,0 +1,21 @@
+{
+  "type": "CoreBlock"
+  "name": "core-asteroid"
+  "displayName": "Ядро «Астероид»"
+  "description": "Обломок колонизационного корабля, переоборудованный в ядро. Аварийная посадка произошла после столкновения с неизвестным астероидным полем."
+  "size": 3
+  "health": 1000
+  "itemCapacity": 3000
+  "unitType": "meteor"
+  "requirements": [
+    { "item": "iron", "amount": 2000 }
+    { "item": "nickel", "amount": 1500 }
+  ]
+  "category": "effect"
+  "alwaysUnlocked": true,
+  "research": {
+    "planet": "zero",
+    "root": true,
+    "name": "Zero"
+  }
+}
