@@ -1,0 +1,40 @@
+{
+  "type": "flying"
+  "name": "meteor"
+  "displayName": "Метеор"
+  "description": "Автономный дрон сопровождения, созданный для защиты ядра «Астероид»."
+  "flying": true
+  "drag": 0.05
+  "speed": 4
+  "rotateSpeed": 15
+  "accel": 0.1
+  "health": 180
+  "armor": 1
+  "coreUnitDock": true
+  "isCounted": false
+  "buildSpeed": 0.75
+  "mineSpeed": 6.5
+  "mineTier": 1
+  "weapons": [
+    {
+      "name": "meteor-weapon"
+      "reload": 20
+      "x": 0
+      "y": 2
+      "shootX": 0
+      "shootY": 0
+      "mirror": false
+      "top": true
+      "shootSound": "shootSmall"
+      "bullet": {
+        "type": "BasicBulletType"
+        "damage": 15
+        "speed": 4
+        "lifetime": 45
+        "buildingDamageMultiplier": 0.05
+        "frontColor": "ffffff"
+        "backColor": "a1dbff"
+      }
+    }
+  ]
+}
