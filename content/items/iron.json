@@ -1,0 +1,14 @@
+{
+  "type": "item"
+  "name": "iron"
+  "displayName": "Железо"
+  "description": "Основной предмет, часто появляется ввиде руди, больше годится в обороне и добиче"
+  "cost": 1
+  "hardness": 1
+  "color": "b0b7bd"
+  "flammability": 0
+  "explosiveness": 0
+  "radioactivity": 0
+  "charge": 0
+  "research": "core-asteroid"
+}
