@@ -1,0 +1,10 @@
+{
+  "captureWave": 15
+  "planet": "zero"
+  "sector": 13
+  "research": {
+    "parent": "accident"
+    }
+  "difficulty": 3
+  "alwaysUnlocked": true
+}
