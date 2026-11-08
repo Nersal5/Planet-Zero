@@ -1,8 +1,7 @@
 {
   "type": "Wall",
   "name": "iron-big-wall",
-  "displayName": "Большая хелезная стена",
-  "description": "Стена созданая защищать союзние блоки",
+  "description": "Protect structures from enemy projectiles.",
   "size": 2,
   "health": 1600,
   "requirements": [
