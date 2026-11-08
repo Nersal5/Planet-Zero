@@ -1,7 +1,6 @@
 {
   "type": "Router"
   "name": "nickel-router"
-  "displayName": "Никелевий маршрутизатор"
   "description": "router"
   "health": 50
   "requirements": [
