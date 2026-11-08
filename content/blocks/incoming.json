@@ -1,8 +1,7 @@
 {
   "type": "ItemTurret",
   "name": "incoming",
-  "displayName": "Приближение",
-  "description": "Простая турель для защиты базы.",
+  "description": "First turret bullets st enemy targets.",
   "size": 1,
   "health": 200,
   "range": 120,
