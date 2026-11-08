@@ -2,7 +2,7 @@
   "type": "item"
   "name": "nickel"
   "displayName": "Никель"
-  "description": "Основной предмет, частовато появляется ввиде руди, больше годится для логистики"
+  "description": "The primary resourse used in building of logistics and factories, have fungi and diamonds"
   "cost": 0.8
   "hardness": 1
   "color": "9da697"
