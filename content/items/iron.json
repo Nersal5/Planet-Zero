@@ -2,7 +2,7 @@
   "type": "item"
   "name": "iron"
   "displayName": "Железо"
-  "description": "Основной предмет, часто появляется ввиде руди, больше годится в обороне и добиче"
+  "description": "The primary resourse used in building of drills and factories, can be smelted into steel"
   "cost": 1
   "hardness": 1
   "color": "b0b7bd"
