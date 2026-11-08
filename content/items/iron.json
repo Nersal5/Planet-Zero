@@ -1,7 +1,6 @@
 {
   "type": "item"
   "name": "iron"
-  "displayName": "Железо"
   "description": "The primary resourse used in building of drills and factories, can be smelted into steel"
   "cost": 1
   "hardness": 1
