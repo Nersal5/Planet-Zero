@@ -1,8 +1,8 @@
 {
   "name": "Zero"
-  "displayName": "Planet-Zero"
-  "author": "Ракушка"
-  "description": "Ето мой первий мод, будет много ошибок, название мода поменяется"
+  "displayName": "Planet Zero"
+  "author": "Nersal"
+  "description": "this is my first mod ever, there's may lots of bugs.\nname of mod and planet can be changed in future."
   "version": "beta-0.1"
   "minGameVersion": 146
 }
