@@ -1,8 +1,7 @@
 {
   "type": "Junction"
   "name": "nickel-conveyor"
-  "displayName": "Никелевий перекресток"
-  "description": "Перекресток"
+  "description": "WIP"
   "health": 50
   "speed": 20
   "capacity": 6
