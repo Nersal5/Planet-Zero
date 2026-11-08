@@ -1,8 +1,7 @@
 {
   "type": "GenericCrafter"
   "name": "nickel-purifier"
-  "displayName": "Очиститель никеля"
-  "description": "Очищяет никель от ржавчини и другого до белого блестящего Алмаза"
+  "description": "Cleans nickel of fungi and scale to obtain a diamond."
   "size": 2
   "health": 120
   "craftTime": 120
