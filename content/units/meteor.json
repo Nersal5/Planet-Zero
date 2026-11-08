@@ -1,8 +1,7 @@
 {
   "type": "flying"
   "name": "meteor"
-  "displayName": "Метеор"
-  "description": "Автономный дрон сопровождения, созданный для защиты ядра «Астероид»."
+  "description": "Defens the Asteroid core from enemies. Builds structures"
   "flying": true
   "drag": 0.05
   "speed": 4
