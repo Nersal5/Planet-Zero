@@ -2,7 +2,7 @@
   "type": "Drill"
   "name": "iron-drill"
   "displayName": "Железний бур"
-  "description": "Базовий бур способний добивать стартовие руди"
+  "description": "Basic drill, can mine iron and nickel"
   "size": 2
   "health": 100
   "drillTime": 300
