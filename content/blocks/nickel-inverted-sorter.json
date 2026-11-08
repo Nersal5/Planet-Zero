@@ -1,8 +1,7 @@
 {
   "type": "Sorter"
   "name": "nickel-inverted-sorter"
-  "displayName": "Никелевий инвенсирований сортировщик"
-  "description": "сортировщик в зеркале, почему би и нет?"
+  "description": "WIP"
   "health": 50
   "invert": true
   "requirements": [
