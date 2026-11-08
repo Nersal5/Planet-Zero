@@ -1,8 +1,7 @@
 {
   "type": "Conveyor"
   "name": "nickel-conveyor"
-  "displayName": "Никельевий конвейер"
-  "description": "В РАЗРАБОТКЕ"
+  "description": "WIP"
   "health": 50
   "speed": 0.0515
   "displaySpeed": 8
