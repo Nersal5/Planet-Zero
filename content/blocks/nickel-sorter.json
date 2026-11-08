@@ -1,8 +1,7 @@
 {
   "type": "Sorter"
   "name": "nickel-sorter"
-  "displayName": "Никелевий сортировщик"
-  "description": "сортировщик как ни как"
+  "description": "WIP"
   "health": 50
   "requirements": [
     { "item": "nickel", "amount": 4 }
