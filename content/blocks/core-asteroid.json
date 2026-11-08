@@ -1,8 +1,7 @@
 {
   "type": "CoreBlock"
   "name": "core-asteroid"
-  "displayName": "Ядро «Астероид»"
-  "description": "Обломок колонизационного корабля, переоборудованный в ядро. Аварийная посадка произошла после столкновения с неизвестным астероидным полем."
+  "description": "Core of the base. Once destroyed, the sector is lost."
   "size": 3
   "health": 1000
   "itemCapacity": 3000
