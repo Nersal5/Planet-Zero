@@ -1,0 +1,6 @@
+{
+  "type": "OreBlock"
+  "itemDrop": "diamond"
+  "variants": 4
+  "hardness": 2
+}
