@@ -1,0 +1,32 @@
+{
+  "type": "mech",
+  "name": "thunder",
+  "description": "Upgraded unit lightning",
+  "speed": 0.75,
+  "hitSize": 12,
+  "health": 450,
+  "armor": 3,
+  "rotateSpeed": 4.75,
+  "canBoost": false,
+  "weapons": [
+    {
+      "name": "main-cannon",
+      "x": 0,
+      "y": 0,
+      "reload": 20,
+      "mirror": false,
+      "rotate": true,
+      "shootSound": "shoot",
+      "bullet": {
+        "type": "BasicBulletType",
+        "damage": 80,
+        "speed": 4,
+        "lifetime": 25,
+        "width": 8,
+        "height": 10,
+        "frontColor": "ffffff",
+        "backColor": "a1dbff"
+      }
+    }
+  ]
+}
