@@ -1,7 +1,7 @@
 {
   "type": "GenericCrafter"
   "name": "nickel-purifier"
-  "description": "Cleans nickel of fungi and scale to obtain a diamond. Currently only sandbox"
+  "description": "Cleans nickel of fungi and scale to obtain a diamond"
   "size": 2
   "health": 120
   "craftTime": 120
