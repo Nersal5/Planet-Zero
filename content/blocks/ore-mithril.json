@@ -1,0 +1,6 @@
+{
+  "type": "OreBlock"
+  "itemDrop": "mithril"
+  "variants": 3
+  "hardness": 2
+}
