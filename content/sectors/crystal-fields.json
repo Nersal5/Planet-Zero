@@ -1,0 +1,19 @@
+{
+  "captureWave": 20
+  "planet": "zero"
+  "sector": 15
+  "research": {
+    "parent": "big-crash"
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "big-crash"
+      }
+      {
+        "type": "research",
+        "content": "diamond"
+      }
+    ]
+  }
+  "difficulty": 3
+}
