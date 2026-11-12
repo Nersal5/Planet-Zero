@@ -4,7 +4,12 @@
   "sector": 13
   "research": {
     "parent": "accident"
-    }
-  "difficulty": 3
-  "alwaysUnlocked": true
+    "objectives": [
+      {
+        "type": "SectorComplete",
+        "preset": "accident"
+      }
+    ]
+  }
+  "difficulty": 2
 }
