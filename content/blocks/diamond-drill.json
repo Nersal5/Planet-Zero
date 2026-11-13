@@ -1,0 +1,15 @@
+{
+  "type": "Drill"
+  "name": "diamond-drill"
+  "displayName": "Алмазний бур"
+  "description": "Алмази очень хрупкие, поетому бур копает медленно"
+  "size": 2
+  "health": 80
+  "drillTime": 500
+  "tier": 3
+  "requirements": [
+    { "item": "iron", "amount": 15 }
+    { "item": "diamond", "amount": 3 }
+  ]
+  "category": "production"
+}
