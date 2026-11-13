@@ -1,0 +1,13 @@
+{
+  "type": "item"
+  "name": "mithril"
+  "displayName": "Мифрил"
+  "description": "Вторичний предмет, среднее появляется ввиде руди, годится для улучшеной добичи и оборони, состоит на 33% из углерода, остальное уран"
+  "cost": 2
+  "hardness": 2
+  "color": "a1dbff"
+  "flammability": 0
+  "explosiveness": 0
+  "radioactivity": 0
+  "charge": 0.2
+}

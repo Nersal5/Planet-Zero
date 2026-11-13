@@ -1,0 +1,9 @@
+{
+  "type": "item"
+  "name": "carbon"
+  "displayName": "Углерод"
+  "description": "чистий Угерод созданий природой, очень бистро сгорает"
+  "cost": 5
+  "color": "a1a1a1"
+  "flammability": 3
+}
