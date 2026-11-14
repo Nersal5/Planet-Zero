@@ -6,7 +6,7 @@
   "size": 2
   "health": 100
   "drillTime": 300
-  "tier": 2
+  "tier": 1
   "requirements": [
     { "item": "iron", "amount": 6 }
   ]
