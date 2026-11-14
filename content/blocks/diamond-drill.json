@@ -1,8 +1,7 @@
 {
   "type": "Drill"
   "name": "diamond-drill"
-  "displayName": "Алмазний бур"
-  "description": "Алмази очень хрупкие, поетому бур копает медленно"
+  "description": "Mines ores slowy, because they're fragile"
   "size": 2
   "health": 80
   "drillTime": 500
