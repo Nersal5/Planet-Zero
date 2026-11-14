@@ -4,8 +4,8 @@
   "description": "Upgraded unit lightning",
   "speed": 0.75,
   "hitSize": 12,
-  "health": 450,
-  "armor": 3,
+  "health": 550,
+  "armor": 6,
   "rotateSpeed": 4.75,
   "canBoost": false,
   "weapons": [
@@ -19,7 +19,7 @@
       "shootSound": "shoot",
       "bullet": {
         "type": "BasicBulletType",
-        "damage": 80,
+        "damage": 120,
         "speed": 4,
         "lifetime": 25,
         "width": 8,
