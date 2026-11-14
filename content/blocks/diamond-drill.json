@@ -4,7 +4,7 @@
   "description": "Mines ores slowy, because they're fragile"
   "size": 2
   "health": 80
-  "drillTime": 500
+  "drillTime": 650
   "tier": 2
   "requirements": [
     { "item": "iron", "amount": 15 }
