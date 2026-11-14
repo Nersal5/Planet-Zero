@@ -2,7 +2,7 @@
   "type": "item"
   "name": "mithril"
   "displayName": "Мифрил"
-  "description": "Вторичний предмет, среднее появляется ввиде руди, годится для улучшеной добичи и оборони, состоит на 33% из углерода, остальное уран"
+  "description": "A very strong metal that contains carbon and conducts electricity"
   "cost": 2
   "hardness": 2
   "color": "a1dbff"
