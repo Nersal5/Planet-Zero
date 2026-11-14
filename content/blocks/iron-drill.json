@@ -5,7 +5,7 @@
   "description": "Basic drill, can mine iron and nickel"
   "size": 2
   "health": 100
-  "drillTime": 300
+  "drillTime": 500
   "tier": 1
   "requirements": [
     { "item": "iron", "amount": 6 }
